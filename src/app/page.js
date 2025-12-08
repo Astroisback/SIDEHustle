@@ -215,7 +215,7 @@ export default function Home() {
                     {item.videoUrl && (
                       <div className="mt-4 w-full aspect-video rounded-xl overflow-hidden border border-gray-700 shadow-lg relative z-20">
                         <iframe
-                          src={item.videoUrl}
+                          src={`${item.videoUrl}?autoplay=1&muted=1`}
                           className="w-full h-full"
                           frameBorder="0"
                           allowFullScreen
