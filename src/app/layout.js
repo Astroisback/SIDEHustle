@@ -8,8 +8,8 @@ import AIChatWidget from "@/components/AIChatWidget";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Her Side Hustle",
-  description: "Empowering rural women entrepreneurs",
+  title: "Side Hustle",
+  description: "Empowering underprivileged people",
 };
 
 export default function RootLayout({ children }) {

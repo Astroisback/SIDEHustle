@@ -16,7 +16,7 @@ export default function TermsModal({ isOpen, onClose, onAccept }) {
                 </div>
 
                 <div className="p-6 max-h-[60vh] overflow-y-auto text-gray-600 text-sm space-y-4">
-                    <p>Welcome to Her Side Hustle. By proceeding, you agree to the following terms:</p>
+                    <p>Welcome to SIDEHustle. By proceeding, you agree to the following terms:</p>
 
                     <h3 className="font-semibold text-gray-800">1. Platform Usage</h3>
                     <p>This platform is designed to empower rural women entrepreneurs. You agree to use it for legitimate business purposes only.</p>

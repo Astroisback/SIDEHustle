@@ -60,7 +60,7 @@ export default function ServiceDashboard() {
                 <div className="flex items-center gap-4">
                     <div className="flex items-center gap-2 text-pink-600">
                         <Store size={24} />
-                        <span className="font-bold text-lg hidden md:block">Her Side Hustle (Service)</span>
+                        <span className="font-bold text-lg hidden md:block">SIDEHustle (Service)</span>
                     </div>
                     <div className="bg-gray-100 px-3 py-1 rounded-full text-xs font-bold text-gray-600 flex items-center gap-2">
                         <Calendar size={14} />

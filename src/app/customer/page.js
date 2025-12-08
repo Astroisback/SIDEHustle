@@ -333,7 +333,7 @@ export default function CustomerLandingPage() {
                             <div className="relative w-10 h-10 rounded-xl overflow-hidden shadow-md shadow-pink-200">
                                 <Image
                                     src="/logo.png"
-                                    alt="Her Side Hustle Logo"
+                                    alt="SIDEHustle Logo"
                                     fill
                                     className="object-cover"
                                 />

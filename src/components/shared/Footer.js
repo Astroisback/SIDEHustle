@@ -9,9 +9,9 @@ export default function Footer() {
                 <div className="grid md:grid-cols-4 gap-8 mb-8">
                     {/* Brand Section */}
                     <div>
-                        <h3 className="text-white text-xl font-bold mb-4">HERSideHustle</h3>
+                        <h3 className="text-white text-xl font-bold mb-4">SIDEHustle</h3>
                         <p className="text-sm text-gray-400">
-                            Empowering women to become financially independent through their skills.
+                            Empowering people to become financially independent through their skills.
                         </p>
                     </div>
 
@@ -81,7 +81,7 @@ export default function Footer() {
                 <div className="border-t border-gray-800 pt-6">
                     <div className="flex flex-col md:flex-row justify-between items-center gap-4">
                         <p className="text-sm text-gray-400">
-                            © {currentYear} HERSideHustle. All rights reserved.
+                            © {currentYear} SIDEHustle. All rights reserved.
                         </p>
                         <div className="flex gap-4">
                             {/* Social Media Icons */}
